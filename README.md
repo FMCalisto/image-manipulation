@@ -1,5 +1,7 @@
 # MatLab Image Manipulation
 
+<img src="assets/matlab.png"/>
+
 ## Introduction
 
 This package is a Matlab implementation of an image manipulation MatLab Tools.
