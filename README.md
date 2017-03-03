@@ -23,5 +23,7 @@ Currently Released Under [MIT](https://github.com/FMCalisto/image-manipulation/b
 # Contact
 
 francisco.calisto@tecnico.ulisboa.pt
+
 joao.zeferino@tecnico.ulisboa.pt
+
 pedro.ricardo.silva@tecnico.ulisboa.pt
