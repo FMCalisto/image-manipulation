@@ -7,7 +7,7 @@
 This package is a Matlab implementation of an image manipulation MatLab Tools.
 
 
-# Installation
+## Installation
 
 1. Download the package by running: `https://github.com/FMCalisto/image-manipulation.git`.
 
@@ -15,15 +15,19 @@ This package is a Matlab implementation of an image manipulation MatLab Tools.
 
 3. Enjoy!
 
-# License
+## License
 
 Currently Released Under [MIT](https://github.com/FMCalisto/image-manipulation/blob/master/LICENSE)
 
 
-# Contact
+## Contact
 
 francisco.calisto@tecnico.ulisboa.pt
 
 joao.zeferino@tecnico.ulisboa.pt
 
 pedro.ricardo.silva@tecnico.ulisboa.pt
+
+## Author
+
+[Pedro Silva](https://github.com/pmbrs)
