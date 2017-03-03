@@ -20,7 +20,7 @@ imgg = imread('database/lena512.bmp');
 N = 15;
 
 for i = 1 : N
-    imageN = imnoise(imgg);
+    imageN = noise(imgg);
     image(:,:,i) = imageN;
 end
 
