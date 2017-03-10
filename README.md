@@ -9,7 +9,7 @@ This package is a Matlab implementation of an image manipulation MatLab Tools.
 
 ## Installation
 
-1. Download the package by running: `https://github.com/FMCalisto/image-manipulation.git`.
+1. Download the package by running: `git clone https://github.com/FMCalisto/image-manipulation.git`.
 
 2. Run Matlab and navigate to package location as working directory, then run it.
 
