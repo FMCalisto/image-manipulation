@@ -3,11 +3,11 @@ vid = VideoReader('Movie_0002.avi');
 nFrames = 40 * 25;
 step = 20;
 
-vid4D = zeros([vid.Height vid.Width 3 nFrame/step]);
+vid4D = zeros([vid.Height vid.Width 3 nFrames/step]);
 figure,
 k = 1;
 
-for i = 1 : step : nFrame
+for i = 1 : step : nFrames
     i
     img = read(vid, i);
     vid4D(:,:,:,k) = img;
