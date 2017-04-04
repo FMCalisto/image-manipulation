@@ -1,3 +1,4 @@
+path = 'C:\Users\jpzef\Desktop\ist5_2\CVI\MATERIAL\image-manipulation\src\LAB 5'
 vid = VideoReader('Movie_0002.avi');
 
 nFrames = 40 * 25;
