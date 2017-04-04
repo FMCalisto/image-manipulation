@@ -1,4 +1,4 @@
-path='Ist\'; frameIdComp=4;
+path='Ist'; frameIdComp=4;
 str=['%s%.' num2str(frameIdComp) 'd.%s'];
 
 nFrame=548;
