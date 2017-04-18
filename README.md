@@ -28,6 +28,10 @@ joao.zeferino@tecnico.ulisboa.pt
 
 pedro.ricardo.silva@tecnico.ulisboa.pt
 
-## Author
+## Authors
 
 [Pedro Silva](https://github.com/pmbrs)
+
+[Francisco Maria Calisto](https://github.com/FMCalisto)
+
+[João Pedro Zeferino](https://github.com/jpzef)
