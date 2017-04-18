@@ -1,4 +1,0 @@
-% --------- Buscado ao PC do Prof-----------%
-
-% vid  = mmreader('Movie_0002.wmv'); % Matlab 2009
-vid= VideoReader('Movie_0002.avi'); % Matlab 20
