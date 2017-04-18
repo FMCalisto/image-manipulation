@@ -34,4 +34,4 @@ pedro.ricardo.silva@tecnico.ulisboa.pt
 
 [Francisco Maria Calisto](https://github.com/FMCalisto)
 
-[João Pedro Zeferino](https://github.com/jpzef)
+[João Pedro Zeferino](https://github.com/JPZef)
